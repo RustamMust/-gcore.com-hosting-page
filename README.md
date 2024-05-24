@@ -8,7 +8,7 @@ This project is an examination work for the module Selenium + pytest.
 
 1. Clone the repository:
 ```
-git clone https://github.com/RustamMust/exam_api_petstore_swagger.git
+git clone https://github.com/RustamMust/-gcore.com-hosting-page.git
 ```
 
 2. Install the virtual environment:
